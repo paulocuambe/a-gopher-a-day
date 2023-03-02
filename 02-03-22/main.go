@@ -16,7 +16,7 @@ var logger *log.Logger = log.New(os.Stdout, "Simple Api - ", log.Ldate|log.Ltime
 
 func main() {
 	mux := http.NewServeMux()
-	port, pOk := os.LookupEnv("APP_ENV")
+	port, pOk := os.LookupEnv("APP_PORT")
 
 	users = append(users, NewUser(&CreateUserDto{Name: "Mitchel Hashimoto", Username: "mitchellh"}))
 
