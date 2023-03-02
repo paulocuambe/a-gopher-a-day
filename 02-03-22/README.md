@@ -1,5 +1,7 @@
 The goal was to create a very simple API. No need for any kind of setup, just run `go run .` inside this directory and you are good to go.
 
+If you want to change the port in which the app runs, run `export APP_PORT=<PORT_NUMBER>` with your preferred port number before starting the application. The default port is `8080`.
+
 Available endpoints:
 * GET `/api`
 * GET `/api/users`

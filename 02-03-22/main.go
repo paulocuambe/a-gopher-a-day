@@ -35,7 +35,7 @@ func main() {
 
 	logger.Println("Starting application on address: ", server.Addr)
 
-	server.ListenAndServe()
+	logger.Fatal(server.ListenAndServe())
 }
 
 func RegisterRoutes(mux *http.ServeMux) {
