@@ -25,6 +25,6 @@ func main() {
 
 		fmt.Println(string(b))
 	} else {
-		log.Fatal("Command not supported")
+		log.Fatal("Please provide a filename or path to a file")
 	}
 }
