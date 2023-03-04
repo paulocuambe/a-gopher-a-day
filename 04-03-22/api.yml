@@ -1,8 +1,8 @@
-name: "Read Api config"
+name: Read Api config
 version: 2.0.0
-description: "It does nothing v2"
+description: It does nothing v2
 author:
-  name: "Paulo"
+  name: Paulo
   twitter: "@thegosenx"
-  github: "paulocuambe"
-  profession: "code hobbyist"
+  github: paulocuambe
+  profession: code hobbyist
