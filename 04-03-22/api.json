@@ -1,0 +1,11 @@
+{
+    "name": "Read Api Config",
+    "version": "1.0.0",
+    "description": "It does absolutely nothing",
+    "author": {
+        "name": "Paulo",
+        "twitter": "@thegosenx",
+        "github": "paulocuambe",
+        "profession": "code hobbyist"
+    }
+}
