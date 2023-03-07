@@ -32,5 +32,5 @@ func main() {
 	}
 
 	tmp := "User\n\tUid: \t%s \n\tGid: \t%s \n\tName: \t%s \n\tUsername: \t%s \n\tHomeDir: \t%s\n"
-	fmt.Printf(tmp, u.Uid, u.Gid, u.Username, u.Name, u.HomeDir)
+	fmt.Printf(tmp, u.Uid, u.Gid, u.Name, u.Username, u.HomeDir)
 }
