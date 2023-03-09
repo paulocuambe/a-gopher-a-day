@@ -1,4 +1,4 @@
-This time I try to develop an ls command, with a small caveat. **It is recursive**.  
+This time I try to develop the `ls` unix command, with a small caveat. **It is recursive**.  
 The recursion stops at 4 levels deep by default, but **you can customize that behavior by setting the depth value in the environment variable `DIR_DEPTH`**.
 
 **Example**:
