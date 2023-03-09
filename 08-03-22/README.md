@@ -27,7 +27,7 @@ To test it run `./pc ls path [...paths]`
         📄 huu.txt
 ```
 
-This command behaves can also list multiple directories at the same time, just like the UNIX `ls` that you now.  
+This command can also list multiple directories at the same time, just like the UNIX `ls` that you now.  
 **Example**:
 ```bash
 ./pc ls dummy ../07-03-22/
