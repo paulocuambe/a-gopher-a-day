@@ -1,0 +1,1 @@
+This small project just scrapes the `https://gosenx.com` web page and saves its contents into a file named `index.html`
